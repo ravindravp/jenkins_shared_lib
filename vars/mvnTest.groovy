@@ -1,3 +1,3 @@
 def call(){
-    sh 'echo hi mvn test'
+    sh 'echo hi'
 }
